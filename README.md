@@ -1,24 +1,24 @@
-# 🔐 AutoForge Security Orchestration
+# 🔐 AutoForge Infrastructure Scanning tool
 
 > **Checkov-inspired. Terraform-rooted. Cloud-compliant.**  
 > AutoForge is a modular DevSecOps framework designed to scan, orchestrate, and visualize infrastructure trust — with pre-scan controls, live dashboards, and graph intelligence.
 
 ---
 
-## 🧭 Table of Contents
+## Table of Contents
 
-- [📌 Overview](#📌-overview)
-- [✨ Features](#✨-features)
-- [🖼 Live Demo (Optional)](#🖼-live-demo-optional)
-- [⚙️ Setup & Usage](#⚙️-setup--usage)
-- [🗂 Folder Structure](#🗂-folder-structure)
-- [🧪 Example Rule](#🧪-example-rule)
-- [👤 Author & Vision](#👤-author--vision)
-- [📄 License](#📄-license)
+- [Overview](#overview)
+- [Features](#features)
+- [Live Demo (Optional)](#live-demo-optional)
+- [Setup & Usage](#setup--usage)
+- [Folder Structure](#folder-structure)
+- [Example Rule](#example-rule)
+- [Author & Vision](#author--vision)
+- [License](#license)
 
 ---
 
-## 📌 Overview
+## Overview
 
 AutoForge builds on ideas from **Checkov**, but pushes further:
 
@@ -31,7 +31,7 @@ AutoForge helps configure trust boundaries and visualize compliance behavior acr
 
 ---
 
-## ✨ Features
+## Features
 
 | Feature              | Status        |
 |----------------------|---------------|
@@ -55,14 +55,14 @@ Graphs will show:
 
 ---
 
-## 🖼 Live Demo (Optional)
+## Live Demo (Optional)
 
 > _Embed screenshots or link to a preview once hosted._  
 > 🚀 Live Preview: `http://127.0.0.1:8001`
 
 ---
 
-## ⚙️ Setup & Usage
+## Setup & Usage
 
 ```bash
 pip install -r requirements.txt
